@@ -24,8 +24,8 @@ setup(
     platforms='any',
     install_requires=[
         'Flask',
-        'WTForms== 1.0.2',
-        'Flask-WTF>=0.6',
+        'WTForms',
+        'Flask-WTF',
     ],
     classifiers=[
         'Development Status :: 4 - Beta',
